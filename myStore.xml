@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Regression TestSuite">
+<test name="MyStore Application Test">
+	<classes>
+		<class name="com.automationpractice.myStore.MyStore"></class>
+	</classes>
+</test>
+</suite>
